@@ -4,5 +4,12 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello World! - Emmet");
     }
+    
+    public void add (int a, int b){
+      return a + b;
+    }
+
+
+
 
 }
