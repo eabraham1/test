@@ -9,6 +9,10 @@ public class Main {
       return a + b;
     }
 
+    public void sub (int a, int b) {
+        return a - b;
+    }
+
 
 
 
